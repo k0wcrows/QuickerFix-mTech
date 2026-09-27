@@ -31,7 +31,7 @@ A mobile-powered tech microservice offering instant script fixes, configuration 
 
 Everything in this repo is created with:
 
-- 📱 **iPhone 13** (main development)
+- 📱 **iPhone 13** (main development, sadly she is no longer with us 🥲)
 - 🔑 **iPhone Mini** (used as passkey device/UBKey)
 - 🛠️ Tools: GitHub App, iSH, Working Copy, Termius
 
