@@ -1,5 +1,7 @@
 
-# QuickerFix-mTech 💸⚙️💻💸🛠️
+# QFix-mTech
+
+💸⚙️💻💸🛠️
 
 A mobile-powered tech microservice offering instant script fixes, configuration help, and cybersecurity triage — **built and managed entirely from an iPhone**.
 
